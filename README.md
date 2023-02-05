@@ -1,4 +1,4 @@
-### Hi my name is Marek 👋
+# Hi my name is Marek 👋
 I Junior Front-end Developer.
 
 <div id="header" align="right">
