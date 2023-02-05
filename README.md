@@ -1,5 +1,5 @@
 # Hi my name is Marek 👋
-##I Junior Front-end Developer.
+## I Junior Front-end Developer.
 
 <div id="header" align="right">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="400"/>
